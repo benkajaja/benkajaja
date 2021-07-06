@@ -1,4 +1,4 @@
-## Hi👋, I'm Benkajaja.
+![Type Gif](https://user-images.githubusercontent.com/53658800/124649463-1f500f80-decb-11eb-8149-6fa1158ff625.gif)
 
 [![Linkedin Badge](https://img.shields.io/badge/-benkajaja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benkajaja/)](https://www.linkedin.com/in/benkajaja/)
 [![Twitter Badge](https://img.shields.io/badge/-@benkajaja-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/benkajaja)
