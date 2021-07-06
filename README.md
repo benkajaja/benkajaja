@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hi👋, I'm Benkajaja.
 
-<!--
-**benkajaja/benkajaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-benkajaja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benkajaja/)](https://www.linkedin.com/in/benkajaja/)
+[![Twitter Badge](https://img.shields.io/badge/-@benkajaja-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/benkajaja)
+[![Gmail Badge](https://img.shields.io/badge/-r08944006@csie.ntu.edu.tw-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:r08944006@csie.ntu.edu.tw)
 
-Here are some ideas to get you started:
+### About
+- 🏫 I'm a graduate student of Computer Science at NTU.
+- ☁️ I'm currently an **AWS community Builder**.
+- 🧰 Member of [cdk-constructs-zone](https://github.com/cdk-constructs-zone)
+- 📚 Learning about **NFV, SDN, serverless architectures ...**
+- 🕹️ Steam Games: Don't Starve Together, Factorio, Overcooked!2, Castle Crashers, Terraria, Trine 4 ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My interest
+- Cloud Native, GCP, AWS, Terraform, Docker, DevOps
+- GinGonic, Django, Flask
+
+### GitHub stats
+
+<p>
+  <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=benkajaja&theme=prussian&show_icons=true&count_private=true">
+  <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=benkajaja&theme=prussian&layout=compact&exclude_repo=ONOS-Apps">
+</p>
