@@ -18,6 +18,6 @@
 ### GitHub stats
 
 <p>
-  <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=benkajaja&theme=prussian&show_icons=true&count_private=true">
-  <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=benkajaja&theme=prussian&layout=compact&exclude_repo=ONOS-Apps">
+  <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=benkajaja&theme=gotham&show_icons=true&count_private=true">
+  <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=benkajaja&theme=gotham&layout=compact&exclude_repo=ONOS-Apps&hide=html">
 </p>
